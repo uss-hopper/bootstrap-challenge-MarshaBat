@@ -46,11 +46,12 @@
 		<div class="container">
 			<div class="row align-items-center">
 
-					<div class="col-sm-4">
-						<img src="sampleimage.JPG" alt="this image will be replaced" width="200" class="img-fluid" alt="Responsive image">
+					<div class="col-sm-3">
+						<img src="sampleimage.JPG" alt="this image will be replaced" width="200" class="img-fluid"
+							  alt="Responsive image">
 					</div>
 
-					<div class="col-sm-8">
+					<div class="col-sm-9">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 							dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
 							aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -74,7 +75,7 @@
 
 		<div class="container">
 			<div class="row">
-				<div class="col-3">
+				<div class="col-sm-3">
 					<div>
 						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -82,7 +83,7 @@
 					</div>
 				</div>
 
-				<div class="col-3">
+				<div class="col-sm-3">
 					<div>
 						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -90,7 +91,7 @@
 					</div>
 				</div>
 
-				<div class="col-3">
+				<div class="col-sm-3">
 					<div>
 						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -98,7 +99,7 @@
 					</div>
 				</div>
 
-				<div class="col-3">
+				<div class="col-sm-3">
 					<div>
 						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -107,6 +108,65 @@
 				</div>
 
 			</div>
+		</div>
+
+
+
+
+
+
+
+		<div class="container">
+		<div class="row">
+			<div class="col-3">
+				<div>
+					<figure class="figure">
+						<img src="sampleimage.JPG" class="figure-img img-fluid rounded" alt="this is an image">
+						<figcaption class="figure-caption text-center">A caption for the above image. Lorem ipsum dolor sit
+							amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							dolore magna aliqua.
+						</figcaption>
+					</figure>
+				</div>
+			</div>
+
+			<div class="col-3">
+				<div>
+					<figure class="figure">
+						<img src="sampleimage.JPG" class="figure-img img-fluid rounded" alt="this is an image">
+						<figcaption class="figure-caption text-center">A caption for the above image. Lorem ipsum dolor sit
+							amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							dolore magna aliqua.
+						</figcaption>
+					</figure>
+				</div>
+			</div>
+
+			<div class="col-3">
+				<div>
+					<figure class="figure">
+						<img src="sampleimage.JPG" class="figure-img img-fluid rounded" alt="this is an image">
+						<figcaption class="figure-caption text-center">A caption for the above image. Lorem ipsum dolor sit
+							amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							dolore magna aliqua.
+						</figcaption>
+					</figure>
+				</div>
+			</div>
+
+			<div class="col-3">
+				<div>
+					<figure class="figure">
+						<img src="sampleimage.JPG" class="figure-img img-fluid rounded" alt="this is an image">
+						<figcaption class="figure-caption text-center">A caption for the above image. Lorem ipsum dolor sit
+							amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							dolore magna aliqua.
+						</figcaption>
+					</figure>
+				</div>
+			</div>
+
+		</div>
 		</div>
 
 
