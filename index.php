@@ -43,12 +43,13 @@
 
 
 
-		<div class="jumbotron">
-			<div class="container">
+		<div class="container">
+			<div class="jumbotron">
 				<div class="row">
 					<div class="col col-sm-10">
 						<h1>Hello, World!</h1>
-						<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+						<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to
+							featured content or information.</p>
 						<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 					</div>
 				</div>
@@ -63,7 +64,9 @@
 
 
 
+
 		<div class="container">
+			<div class="bg-light">
 			<div class="row align-items-center">
 
 					<div class="col-sm-3">
@@ -81,7 +84,7 @@
 							aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 							eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 					</div>
-
+			</div>
 			</div>
 		</div>
 
