@@ -47,7 +47,7 @@
 			<div class="row align-items-center">
 
 					<div class="col-sm-4">
-						<img src="sampleimage.JPG" alt="this image will be replaced" width="300">
+						<img src="sampleimage.JPG" alt="this image will be replaced" width="200" class="img-fluid" alt="Responsive image">
 					</div>
 
 					<div class="col-sm-8">
@@ -72,40 +72,41 @@
 
 
 
-		<div>
-			<img src="sampleimage.JPG" alt="this is another image to be replaced" width="300">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-				dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-				ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-				nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-				anim id est laborum.</p>
-		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-3">
+					<div>
+						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							dolore magna aliqua.</p>
+					</div>
+				</div>
 
-		<div>
-			<img src="sampleimage.JPG" alt="this is another image to be replaced" width="300">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-				dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-				ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-				nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-				anim id est laborum.</p>
-		</div>
+				<div class="col-3">
+					<div>
+						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							dolore magna aliqua.</p>
+					</div>
+				</div>
 
-		<div>
-			<img src="sampleimage.JPG" alt="this is another image to be replaced" width="300">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-				dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-				ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-				nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-				anim id est laborum.</p>
-		</div>
+				<div class="col-3">
+					<div>
+						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							dolore magna aliqua.</p>
+					</div>
+				</div>
 
-		<div>
-			<img src="sampleimage.JPG" alt="this is another image to be replaced" width="300">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-				dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-				ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-				nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-				anim id est laborum.</p>
+				<div class="col-3">
+					<div>
+						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							dolore magna aliqua.</p>
+					</div>
+				</div>
+
+			</div>
 		</div>
 
 
@@ -119,11 +120,6 @@
 				</div>
 			</div>
 		</div>
-
-
-
-
-
 
 		<!-- Optional JavaScript -->
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
