@@ -112,8 +112,12 @@
 
 
 
-		<div>
-			<p>This will be a one-lined footer.</p>
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-4">
+					<p>This will be a one-lined footer.</p>
+				</div>
+			</div>
 		</div>
 
 
