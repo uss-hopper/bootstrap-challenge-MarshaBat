@@ -18,9 +18,33 @@
 	</head>
 	<body>
 
-		<div>
-			NAVIGATION GOES HERE
+		<div class="container">
+			<div class="row">
+				<div class="col-1">
+					<nav class="navbar navbar-expand-lg navbar-light bg-light">
+						<a class="navbar-brand" href="#">Title</a>
+					</nav>
+				</div>
+				<div class="col-11">
+					<ul class="nav justify-content-end">
+						<li class="nav-item">
+							<a class="nav-link" href="#">Link 1</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Link 2</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Link 3</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Link 4</a>
+						</li>
+					</ul>
+				</div>
+			</div>
 		</div>
+
+
 
 
 		<div class="jumbotron">
