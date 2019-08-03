@@ -19,27 +19,23 @@
 	<body>
 
 		<div class="container">
-			<div class="row">
-				<div class="col-1">
-					<nav class="navbar navbar-expand-lg navbar-light bg-light">
-						<a class="navbar-brand" href="#">Title</a>
-					</nav>
-				</div>
-				<div class="col-11">
-					<ul class="nav justify-content-end">
-						<li class="nav-item">
-							<a class="nav-link" href="#">Link 1</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="#">Link 2</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="#">Link 3</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="#">Link 4</a>
-						</li>
-					</ul>
+			<div class="border">
+				<div class="rounded-lg">
+					<div class="row">
+						<div class="col-1">
+							<nav class="navbar navbar-expand-lg navbar-light bg-light">
+								<a class="navbar-brand" href="#">Title</a>
+							</nav>
+						</div>
+						<div class="col-11">
+							<ul class="nav justify-content-end">
+								<li class="nav-item"><a class="nav-link" href="#">Link1</a></li>
+								<li class="nav-item"><a class="nav-link" href="#">Link2</a></li>
+								<li class="nav-item"><a class="nav-link" href="#">Link3</a></li>
+								<li class="nav-item"><a class="nav-link" href="#">Link4</a></li>
+							</ul>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -71,7 +67,7 @@
 			<div class="row align-items-center">
 
 					<div class="col-sm-3">
-						<img src="sampleimage.JPG" alt="this image will be replaced" width="200" class="img-fluid"
+						<img src="sampleimage.JPG" width="200" class="img-fluid"
 							  alt="Responsive image">
 					</div>
 
@@ -101,7 +97,7 @@
 			<div class="row">
 				<div class="col-sm-3">
 					<div>
-						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
+						<img src="sampleimage.JPG" class="rounded-circle" width="200" class="img-fluid" alt="Responsive image">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 							dolore magna aliqua.</p>
 					</div>
@@ -109,7 +105,7 @@
 
 				<div class="col-sm-3">
 					<div>
-						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
+						<img src="sampleimage.JPG" class="rounded-circle" width="200" class="img-fluid" alt="Responsive image">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 							dolore magna aliqua.</p>
 					</div>
@@ -117,7 +113,7 @@
 
 				<div class="col-sm-3">
 					<div>
-						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
+						<img src="sampleimage.JPG" class="rounded-circle" width="200" class="img-fluid" alt="Responsive image">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 							dolore magna aliqua.</p>
 					</div>
@@ -125,7 +121,7 @@
 
 				<div class="col-sm-3">
 					<div>
-						<img src="sampleimage.JPG" alt="this is another image to be replaced" width="200" class="img-fluid" alt="Responsive image">
+						<img src="sampleimage.JPG" class="rounded-circle" width="200" class="img-fluid" alt="Responsive image">
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 							dolore magna aliqua.</p>
 					</div>
