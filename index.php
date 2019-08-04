@@ -21,25 +21,21 @@
 		<div class="container">
 			<div class="bg-light">
 				<div class="my-3">
-					<div class="border">
-						<div class="rounded-lg">
-							<div class="row">
+					<div class="border rounded-lg">
+						<div class="row">
+							<div class="col-1">
+								<nav class="navbar navbar-expand-lg navbar-light bg-light">
+									<a class="navbar-brand" href="#">Title</a>
+								</nav>
+							</div>
 
-								<div class="col-1">
-									<nav class="navbar navbar-expand-lg navbar-light bg-light">
-										<a class="navbar-brand" href="#">Title</a>
-									</nav>
-								</div>
-
-								<div class="col-11">
-									<ul class="nav justify-content-end">
-										<li class="nav-item"><a class="nav-link" href="#">Link1</a></li>
-										<li class="nav-item"><a class="nav-link" href="#">Link2</a></li>
-										<li class="nav-item"><a class="nav-link" href="#">Link3</a></li>
-										<li class="nav-item"><a class="nav-link" href="#">Link4</a></li>
-									</ul>
-								</div>
-
+							<div class="col-11">
+								<ul class="nav justify-content-end">
+									<li class="nav-item"><a class="nav-link" href="#">Link1</a></li>
+									<li class="nav-item"><a class="nav-link" href="#">Link2</a></li>
+									<li class="nav-item"><a class="nav-link" href="#">Link3</a></li>
+									<li class="nav-item"><a class="nav-link" href="#">Link4</a></li>
+								</ul>
 							</div>
 						</div>
 					</div>
@@ -79,7 +75,7 @@
 					<div class="row align-items-center">
 
 						<div class="col-sm-3">
-								<img src="https://placekitten.com/g/200/200" class="img-fluid" alt="Responsive image">
+								<img src="https://placekitten.com/g/200/200" class="img-fluid pb-4 mx-auto d-block" alt="Responsive image">
 						</div>
 						<div class="col-sm-9">
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -108,7 +104,7 @@
 		<div class="container">
 			<div class="mt-5">
 				<div class="row">
-					<div class="col-sm-3">
+					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
 							<p class="border m-3 p-2 rounded-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -116,7 +112,7 @@
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
 							<p class="border m-3 p-2 rounded-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -124,7 +120,7 @@
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
 							<p class="border m-3 p-2 rounded-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -132,7 +128,7 @@
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
 							<p class="border m-3 p-2 rounded-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
