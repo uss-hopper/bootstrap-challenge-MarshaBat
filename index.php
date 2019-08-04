@@ -46,12 +46,14 @@
 
 
 
+
+		<!-- Section 2 -->
 		<div class="container">
 			<div class="my-5">
 				<div class="jumbotron">
 					<div class="row">
 						<div class="col col-sm-10">
-							<h1>Hello, World!</h1>
+							<h1>Hello, Cat Lovers!</h1>
 							<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to
 							featured content or information.</p>
 							<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
@@ -60,20 +62,11 @@
 				</div>
 			</div>
 		</div>
-
-
-
-
-
-
-
-
-
-		<div class="bg-secondary">
+		<!-- Section 3 -->
+		<div class="background-3">
 			<div class="container">
 				<div class="py-5">
 					<div class="row align-items-center">
-
 						<div class="col-sm-3">
 								<img src="https://placekitten.com/g/200/200" class="img-fluid pb-4 mx-auto d-block" alt="Responsive image">
 						</div>
@@ -87,20 +80,11 @@
 								aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 								eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						</div>
-
 					</div>
 				</div>
 			</div>
 		</div>
-
-
-
-
-
-
-
-
-
+		<!-- Section 4 -->
 		<div class="container">
 			<div class="mt-5">
 				<div class="row">
@@ -111,7 +95,6 @@
 								dolore magna aliqua.</p>
 						</div>
 					</div>
-
 					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
@@ -119,7 +102,6 @@
 								dolore magna aliqua.</p>
 						</div>
 					</div>
-
 					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
@@ -127,7 +109,6 @@
 								dolore magna aliqua.</p>
 						</div>
 					</div>
-
 					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
@@ -138,15 +119,14 @@
 				</div>
 			</div>
 		</div>
-
-
-		<div class="bg-dark">
+		<!-- Section 5 -->
+		<div class="background-5">
 			<div class="container">
-				<div class="mt-5">
-					<div class="pt-3">
+				<div class="mt-4">
+					<div class="pt-4">
 						<div class="row justify-content-center">
 							<div class="text-light">
-								<p>This will be a one-lined footer.</p>
+								<p>This is a one-lined footer.</p>
 							</div>
 						</div>
 					</div>

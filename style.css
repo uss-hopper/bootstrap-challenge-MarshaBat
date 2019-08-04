@@ -1,58 +1,13 @@
-.p-3 {
-	padding: $spacer !important;
+/*did't need the !important*/
+
+.background-3 {
+	background-color: #dcdcdc !important;
 }
 
 
-/*		<div class="container">
-			<div class="mt-5">
-				<div class="row">
-					<div class="col-3">
-						<div>
-							<figure class="figure">
-								<img src="https://placekitten.com/g/200/200" class="figure-img img-fluid rounded" alt="this is an image">
-								<figcaption class="figure-caption text-center">A caption for the above image. Lorem ipsum dolor sit
-									amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-									dolore magna aliqua.
-								</figcaption>
-							</figure>
-						</div>
-					</div>
+.background-5 {
+	background-color: #000000 !important;
+}
 
-					<div class="col-3">
-						<div>
-							<figure class="figure">
-								<img src="https://placekitten.com/g/200/200" class="figure-img img-fluid rounded" alt="this is an image">
-								<figcaption class="figure-caption text-center">A caption for the above image. Lorem ipsum dolor sit
-									amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-									dolore magna aliqua.
-								</figcaption>
-							</figure>
-						</div>
-					</div>
 
-					<div class="col-3">
-						<div>
-							<figure class="figure">
-								<img src="https://placekitten.com/g/200/200" class="figure-img img-fluid rounded" alt="this is an image">
-								<figcaption class="figure-caption text-center">A caption for the above image. Lorem ipsum dolor sit
-									amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-									dolore magna aliqua.
-								</figcaption>
-							</figure>
-						</div>
-					</div>
 
-					<div class="col-3">
-						<div>
-							<figure class="figure">
-								<img src="https://placekitten.com/g/200/200" class="figure-img img-fluid rounded" alt="this is an image">
-								<figcaption class="figure-caption text-center">A caption for the above image. Lorem ipsum dolor sit
-									amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-									dolore magna aliqua.
-								</figcaption>
-							</figure>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>*/
