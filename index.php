@@ -79,28 +79,28 @@
 					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
-							<p class="border m-3 p-2 rounded-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							<p class="border m-3 p-2 rounded-lg bg-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 								dolore magna aliqua.</p>
 						</div>
 					</div>
 					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
-							<p class="border m-3 p-2 rounded-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							<p class="border m-3 p-2 rounded-lg bg-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 								dolore magna aliqua.</p>
 						</div>
 					</div>
 					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
-							<p class="border m-3 p-2 rounded-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							<p class="border m-3 p-2 rounded-lg bg-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 								dolore magna aliqua.</p>
 						</div>
 					</div>
 					<div class="col-sm-3 text-center">
 						<div>
 							<img src="https://placekitten.com/g/200/200" class="rounded-circle img-fluid" alt="Responsive image">
-							<p class="border m-3 p-2 rounded-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+							<p class="border m-3 p-2 rounded-lg bg-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
 								dolore magna aliqua.</p>
 						</div>
 					</div>
