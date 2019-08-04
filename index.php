@@ -25,17 +25,18 @@
 						<div class="row">
 							<div class="col-1">
 								<nav class="navbar navbar-expand-lg navbar-light bg-light">
-									<a class="navbar-brand" href="#">Title</a>
+									<a class="navbar-brand text-secondary" href="#">Title</a>
 								</nav>
 							</div>
 
 							<div class="col-11">
-								<ul class="nav justify-content-end">
-									<li class="nav-item"><a class="nav-link" href="#">Link1</a></li>
-									<li class="nav-item"><a class="nav-link" href="#">Link2</a></li>
-									<li class="nav-item"><a class="nav-link" href="#">Link3</a></li>
-									<li class="nav-item"><a class="nav-link" href="#">Link4</a></li>
+									<ul class="nav justify-content-end p-2">
+									<li class="nav-item"><a class="nav-link text-secondary" href="#">Link1</a></li>
+									<li class="nav-item"><a class="nav-link text-secondary" href="#">Link2</a></li>
+									<li class="nav-item"><a class="nav-link text-secondary" href="#">Link3</a></li>
+									<li class="nav-item"><a class="nav-link text-secondary" href="#">Link4</a></li>
 								</ul>
+
 							</div>
 						</div>
 					</div>
